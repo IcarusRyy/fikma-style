@@ -3,6 +3,7 @@
 declare global {
   interface Window {
     fikma_figma: PluginAPI
+    figma: PluginAPI
   }
 }
 
